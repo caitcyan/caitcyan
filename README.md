@@ -10,7 +10,7 @@ I am a graduated engineer, who seeks to pursue a career on Data Analytics.
 ```
 And more to come!
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fbreakableuniformchamois&psig=AOvVaw010O5PxvWMs0hwyXhbewG0&ust=1674839549414000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjTxdrd5fwCFQAAAAAdAAAAABAD))
+![Alt Text](https://github.com/caitcyan/caitcyan/blob/main/muestra.gif)
 
 
 If you want to reach me ⚡⚡ , email giovanna.gomez.p@upch.pe
