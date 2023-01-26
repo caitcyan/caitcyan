@@ -12,8 +12,11 @@ Currently, I live in Lima, Peru. My main objective is to gain experience as well
 #Python : Matplotlib, Seaborn
 #R, statistics
 #Linear regression
-#Project management(Jira, Confluence, SCRUM Metodology)
+#Project management(Jira, Confluence, SCRUM Methodology)
+@@English,Spanish@@
+@@Team work@@
 ```
+
 And more to come!
 
 ![Alt Text](https://github.com/caitcyan/caitcyan/blob/main/muestra.gif)
