@@ -1,12 +1,17 @@
 ### Hello. I am Natalia Gomez. 👋
 
-I am a graduated engineer, who seeks to pursue a career on Data Analytics.
+I am a graduated engineer, who seeks to pursue a career on Data Analytics. I consider myself a very commited person, who always seeks the best. 
+:woman_technologist:
+I have worked on health related projects, as some others to practice. 
+Currently, I live in Lima, Peru. My main objective is to gain experience as well as developing my current skills. 
 
 ```diff
 +My skills
 #Power BI
 #SQL, No-SQL
 #Python : Matplotlib, Seaborn
+R, statistics
+Linear regression
 ```
 And more to come!
 
