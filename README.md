@@ -10,8 +10,9 @@ Currently, I live in Lima, Peru. My main objective is to gain experience as well
 #Power BI
 #SQL, No-SQL
 #Python : Matplotlib, Seaborn
-R, statistics
-Linear regression
+#R, statistics
+#Linear regression
+#Project management(Jira, Confluence, SCRUM Metodology)
 ```
 And more to come!
 
